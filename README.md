@@ -4,6 +4,13 @@
 
 - <b>Python</b>
   - [Test Project)](https://github.com/journeystart1)
+ 
+- <b>Java</b>
+  - [Test Project)](https://github.com/journeystart1)
+
+ <h2>👨‍💻 3D Portfolio:</h2>
+
+ [My Website](https://github.com/journeystart1/3d-portfolio)
 
 
 <h2> 🤳 Connect with me:</h2>
